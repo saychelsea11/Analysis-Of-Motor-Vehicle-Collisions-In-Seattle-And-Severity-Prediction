@@ -22,7 +22,8 @@
 
 4. **Reports**: Contains all the documentation for the project including a detailed report and presentation slides. 
 
-# Key findings from the project (others can be found in the *presentation, report* and *Jupyter Notebooks*)
+# Key findings from the project 
+### (others can be found in the *presentation, report* and *Jupyter Notebooks*)
 
 ![Scatter_plot_collision_coordinates](https://user-images.githubusercontent.com/31114603/90972242-5dc42200-e4e5-11ea-9ea9-f103635201aa.JPG)
 
