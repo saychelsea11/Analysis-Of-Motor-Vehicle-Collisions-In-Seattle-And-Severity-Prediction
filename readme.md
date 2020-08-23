@@ -25,6 +25,9 @@
 # Key findings from the project 
 ### (others can be found in the *presentation, report* and *Jupyter Notebooks*)
 
+
+
+
 ![Scatter_plot_collision_coordinates](https://user-images.githubusercontent.com/31114603/90972242-5dc42200-e4e5-11ea-9ea9-f103635201aa.JPG)
 
 ![hour_vs_severity_analysis](https://user-images.githubusercontent.com/31114603/90973036-5f451880-e4ec-11ea-94dc-8065775d113a.JPG)
