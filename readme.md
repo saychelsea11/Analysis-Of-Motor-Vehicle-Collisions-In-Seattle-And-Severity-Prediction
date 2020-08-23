@@ -23,7 +23,7 @@
 4. **Reports**: Contains all the documentation for the project including a detailed report and presentation slides. 
 
 # Key findings from the project 
-### (others can be found in the *presentation, report* and *Jupyter Notebooks*)
+### Others can be found in the *presentation, report* and *Jupyter Notebooks*
 
 
 
