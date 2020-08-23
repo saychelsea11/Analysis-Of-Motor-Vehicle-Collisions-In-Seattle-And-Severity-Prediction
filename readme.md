@@ -26,3 +26,12 @@
 
 ![Scatter_plot_collision_coordinates](https://user-images.githubusercontent.com/31114603/90972242-5dc42200-e4e5-11ea-9ea9-f103635201aa.JPG)
 
+![hour_vs_severity_analysis](https://user-images.githubusercontent.com/31114603/90973036-5f451880-e4ec-11ea-94dc-8065775d113a.JPG)
+
+![speed_vs_severity_analysis](https://user-images.githubusercontent.com/31114603/90973049-7257e880-e4ec-11ea-967b-a8d770faaaac.JPG)
+
+![final_model_numbers](https://user-images.githubusercontent.com/31114603/90973061-7c79e700-e4ec-11ea-8c53-44e77a84816a.JPG)
+
+![threshold_sweep](https://user-images.githubusercontent.com/31114603/90973080-a03d2d00-e4ec-11ea-9a5a-c0165e569252.JPG)
+
+
